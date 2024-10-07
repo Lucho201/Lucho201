@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Luciano
 
-<!--
-**Lucho201/Lucho201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+23-year-old software developer passionate about coding, finances, sports, space, teaching, and crypto. Studying Software Engineering and working at an Argentinian broker in Buenos Aires.
 
-Here are some ideas to get you started:
+## 🚀 Quick Facts
+- 🐍 Python enthusiast
+- 💼 Working in finance & freelancing globally
+- 🎓 Software Engineering student
+- 🏙️ Based in Buenos Aires, Argentina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Interests
+- Python
+- Financial analysis
+- Cryptocurrency
+- Teaching (Python instructor for global students)
+
+## 🌱 Currently
+- Learning DevOps
+- Seeking leadership opportunities
+- Exploring entrepreneurship
+
+## 🚀 Personal Project
+FCI Tracker (fcitracker.online) - A tool to track Argentine investment funds
+
+## 📫 Contact
+lucigar01@gmail.com
+
+---
+
+Open to collaborations in tech, finance, or space exploration. Let's connect!
